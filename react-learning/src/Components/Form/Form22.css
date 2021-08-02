@@ -1,0 +1,16 @@
+.my_form{
+    text-align: center;
+    background-color: grey;
+    padding: 1rem;
+    margin: 10px;
+    width: 400px;
+    height: 800px;
+}
+.xyz{
+    background-color: black;
+    color: white;
+
+}
+.strData{
+    background-color:red;
+}
