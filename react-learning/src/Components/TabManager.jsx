@@ -8,9 +8,11 @@ export const TabManager = () => {
       id="uncontrolled-tab-example"
       className="mb-3"
     >
-      <Tab eventKey="Section1" title="section 1"></Tab>
-      <h1>this is L1</h1>
-      <L1 />
+      <Tab eventKey="Section1" title="section 1">
+        <h1>this is L1</h1>
+        <L1 />
+      </Tab>
+
       <Tab eventKey="Section2" title="section2"></Tab>
       <Tab eventKey="section3" title="section 3"></Tab>
     </Tabs>

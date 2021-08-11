@@ -6,7 +6,7 @@ import { Cardxyz } from "./Reducers/Cardxyz";
 export const Cardparent = () => {
   const [empArr, setEmpArr] = useState(Cardxyz.Data);
   const [searchtxt, setsearchtext] = useState("");
-  //usestateEffect
+  //usestate  teEffect
   useEffect(() => {
     const filterArr = empArr.filter(
       (item) =>

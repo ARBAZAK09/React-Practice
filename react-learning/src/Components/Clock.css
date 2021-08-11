@@ -1,0 +1,12 @@
+.Clock{
+    margin:10px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(37, 37, 116)!important;
+}
+
+.ab{
+    background-color: olive;
+    padding: 30px;
+    font-size: 30px;
+}
